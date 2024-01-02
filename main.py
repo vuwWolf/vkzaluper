@@ -6,7 +6,7 @@ import time
 
 personId = None #Вместо None айди в ВК жертвы
 
-Token = 'vk1.a.jJoBHYNKeYi0YmG8hMa8UciC4P0VFrQO260Orv62lOVRg_YvEoV4HJs-dETrXzvsN7Bj5YFgYE8mCAx_eVRvHubaN6B723f1BpWoWnvUDOezLYOMRgwZrPu4ctukn_p1DVxVUoVgmZxzgkOvXMGsb-JDGSBZkyz6nrgcB9RMmNLrNLB_HUV2H2ZNWD1xS9GY7VXUyr7xYwSVRbg_rt9aHw'
+Token = 'ХУЙ'
 #Вписывай токен того аккаунта ВК, с которого будет производиться заебатинг
 
 vk_seks = vk_api.VkApi(
